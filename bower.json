@@ -1,0 +1,22 @@
+{
+  "name": "iNTUition-2016",
+  "authors": [
+    "Suyash Lakhotia <suyashlakhotia@gmail.com>"
+  ],
+  "description": "iNTUition 2016's official website.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
