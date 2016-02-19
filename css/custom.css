@@ -141,8 +141,7 @@ header .header-content .header-content-inner img {
 
 header .header-content .header-content-inner .btn-xl {
     width: 80%;
-    margin-right: 20px;
-    margin-left: 20px;
+    margin: 15px 20px 0 20px;
 }
 
 @media(min-width:768px) {
